@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "redirect": "https://www.nathanawhitworth.dev",
+            "statusCode": 301
+        }
+    ]
+}
